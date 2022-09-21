@@ -15,7 +15,6 @@ Xcode v12.5.1 (12E507)
 
 output檔包含：Line(行數), Loc(位置), Source statement, Object code。
 ## 程式說明
-pseudo instruction：START、END、BYTE、WORD、RESB、RESW、EQU、BASE、LTORG。
 ### SIC: 
 將label與label location儲存在label table中，將對應指令的opcode及symbol的location結合組成機器碼。
 * Table1.table(instruction table)
@@ -36,5 +35,6 @@ pseudo instruction：START、END、BYTE、WORD、RESB、RESW、EQU、BASE、LTOR
 
 依照format的格式計算出最後的機器碼。
 
+完成的pseudo instruction：START、END、BYTE、WORD、RESB、RESW、EQU、BASE、LTORG。
 
 
