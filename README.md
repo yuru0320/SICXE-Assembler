@@ -1,4 +1,4 @@
-# SICXEA-ssembler
+# SICXE-ssembler
 
 ## 開發平台
 macOS Big Sur 
